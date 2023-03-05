@@ -1,0 +1,41 @@
+
+{
+    "countries":[
+        {
+            "country":"india",
+            "states":[
+                {
+                    "state":"gujarat",
+                    "cities":["surat","ahemdabad","vadodra"]
+                },
+                {
+                    "state":"Maharashtra",
+                    "cities":["mumbai","pune","nashik"]
+                },
+                {
+                    "state":"utter pradesh",
+                    "cities":["lacknow","kanpur"]
+                }
+            ]
+            
+        },
+        
+        
+         {
+            "country":"usa",
+            "states":[
+                {
+                    "state":"california",
+                    "cities":["los angeles","san diego"]
+                },
+                {
+                    "state":"florida",
+                    "cities":["miami","orlando"]
+                }
+            ]
+            
+        }
+    
+        
+    ]
+}
